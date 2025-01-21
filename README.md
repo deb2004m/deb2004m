@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Debashis Moharana</h1>
-<h3 align="center">A passionate fullstack java developer from India</h3>
+<h3 align="center">A passionate fullstack java developer from Odisha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb2004m&label=Profile%20views&color=0e75b6&style=flat" alt="deb2004m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deb2004m" alt="deb2004m" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deb2004m" alt="deb2004m" /></a> </p>-->
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="max-width: 100%;">
 
 - 🌱 I’m currently learning **Java with DSA,springboot, fullstack devlopement**
 
@@ -18,6 +19,8 @@
 <a href="https://instagram.com/moharanadeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moharanadeb" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@debashismoharan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@debashismoharan1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moharanadeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moharanadeb" height="30" width="40" /></a>
+  
+<!--<a href="https://codolio.com/profile/8fVVNdvM" target="blank"><img align="center" src="https://camo.githubusercontent.com/9cadca28a021488…f646f6c696f5f6173736574732f636f646f6c696f2e737667" alt="Debashis Moharana" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
