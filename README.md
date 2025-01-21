@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Debashis Moharana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb2004m&label=Profile%20views&color=0e75b6&style=flat" alt="deb2004m" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deb2004m" alt="deb2004m" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Frontend Web Development**
+- 🌱 I’m currently learning **Java with DSA,springboot, fullstack devlopement**
 
-- 💬 Ask me about **C++, Java**
+- 💬 Ask me about **Java, DSA, MySQL(Database)**
 
 - 📫 How to reach me **debashismoharana09@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
