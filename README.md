@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **debashismoharana09@gmail.com**
 
-- ⚡ Fun fact **Code| Work | Sleep**
+- ⚡ Fun fact **Code| Work | Sleep | Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
