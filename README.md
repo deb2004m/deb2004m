@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 💬 Ask me about **C, C++, Java , DBMS, Python, React.js, HTML, CSS**
+- 💬 Ask me about ** Java, C++, Python, React.js, HTML, CSS, SpringBoot, DBMS**
 
 - 📫 How to reach me **debashismoharana09@gmail.com**
 
