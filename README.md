@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debashis Moharana</h1>
-<h3 align="center">A passionate fullstack java developer from Odisha</h3>
+<h3 align="center">A passionate fullstack java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb2004m&label=Profile%20views&color=0e75b6&style=flat" alt="deb2004m" /> </p>
 
