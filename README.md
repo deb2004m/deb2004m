@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debashis Moharana</h1>
-<h3 align="center">A passionate fullstack java developer</h3>
+<h3 align="center">A passionate Fullstack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb2004m&label=Profile%20views&color=0e75b6&style=flat" alt="deb2004m" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 💬 Ask me about ** Java, C++, Python, React.js, HTML, CSS, SpringBoot, DBMS**
+- 💬 Ask me about ** Java, SpringBoot, Spring, MySql, MongoDB, Spring security, Spring Data JPA, Microservices, React.js, HTML, CSS,**
 
 - 📫 How to reach me **debashismoharana09@gmail.com**
 
-- ⚡ Fun fact **Code| Work | Sleep | Repeat**
+- ⚡ Fun fact **Code | Work | Gym | Sleep | Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
